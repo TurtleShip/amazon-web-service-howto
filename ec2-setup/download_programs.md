@@ -8,14 +8,11 @@ export M2=$M2_HOME/bin
 export PATH=$M2:$PATH
 mvn --version
 ```
-
 2. Install git
 ```sh
 sudo yum install git
 ```
-
 3. Install Java
-
   - Download java from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html) from my local laptop.
   - scp the file to my ec2 instance
   ```sh
