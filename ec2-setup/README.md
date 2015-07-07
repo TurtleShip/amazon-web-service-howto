@@ -6,6 +6,6 @@
   - [maven](install_guide/install_maven.md)
   - [Postgresql](install_guide/install_postgresql.md)
 
-2. [Set dot files](install_guide/dot_files/install_dot_files.md)
-  - vimrc
-  - zshrc
+2. Set dot files
+  - [vimrc](install_guide/dot_files/.vimrc)
+  - [zshrc](install_guide/dot_files/install_zsh.md)

@@ -23,3 +23,5 @@ alias reload='source ~/.zshrc'
 # openup zshrc
 alias vim_zsh='vim ~/.zshrc'
 ```
+
+Add ```TERM=xterm-color``` to ```~/.zlogin``` if you see **"Terminal is not fully functional"**.
